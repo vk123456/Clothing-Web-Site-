@@ -1,2 +1,3 @@
 # Clothing-Web-Site-
-Using HTML and CSS 
+Using HTML CSS and Java Script
+
